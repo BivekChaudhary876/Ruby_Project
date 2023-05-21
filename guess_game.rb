@@ -1,3 +1,4 @@
+#SecretGame in Ruby
 secret_word = "IamWinner"
 guess = ""
 guess_count = 0
